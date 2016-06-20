@@ -166,7 +166,7 @@ May take (on foot only):
 ### General Bonus
 If your general is from Medeis, every unit with the "Citizen Militia" special rule adds +1 to your channel roll.
 
-### High Prince/Commander (150/75 pts)
+### High Prince/Commander (120/60 pts)
 The model gains Sword Sworn (see Sword Masters special unit), Master of Balance, becomes a Level
 1 Wizard Apprentice and chooses two signature spells from any of the eight Paths of Battle Magic
 (instead of generating spells normally). The chosen spells must be noted in the Army List. A High
@@ -175,7 +175,8 @@ The number of Spells a High Prince/Commander of Medeis generates cannot be incre
 
 #### Mounts:
 
-    * Giant Eagle: 70 pts
+* Elven Horse: 30/20 pts
+* Giant Eagle: 70 pts
 
 ### Archmage/Mage (40/30 pts)
 The model ​generates spells from the Path of White Magic or any of the Battle Magic Paths. 
@@ -190,7 +191,8 @@ an end.
 
 #### Mounts:
 
-    * Giant Eagle: 45/35 pts
+* Elven Horse: 20 pts
+* Giant Eagle: 45/35 pts
 
 
 ---------------------------------------
@@ -208,16 +210,16 @@ Monstrous Cavalry, Monsters, Ridden Monsters).
 The model’s unit is immune to the effects of Terror and Fear.
 #### Mounts:
 
-    * Wild Lion: 35 pts
-    * Lion Chariot 35/60 pts
+* Wild Lion: 35/25 pts
+* Lion Chariot 35/60 pts
 
 ### Archmage/Mage (60/45 pts)
 The model gains Valiant and Lion’s Fur. The model’s unit is immune to the effects of Terror and Fear.
 The model ​generates spells from the Path of White Magic, of Wilderness or of Nature. 
 #### Mounts:
 
-    * Wild Lion: 35 pts
-    * Lion Chariot 35/60 pts
+* Wild Lion: 25 pts
+* Lion Chariot 35/60 pts
 
 
 
