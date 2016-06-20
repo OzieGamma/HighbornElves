@@ -69,6 +69,7 @@ The model gains devastating charge. The model gains Dragonforged Armour.
 
 #### Mounts:
 The model **must** take one of the following mounts:
+
     * Elven Horse: free
     * Young Dragon: 200 pts
     * Dragon*: 270/* pts
@@ -86,6 +87,7 @@ The model ignores the Missile and Damage keywords if targeting spells�
 
 #### Mounts:
 The model **must** take one of the following mounts:
+
     * Young Dragon: free
     * Dragon*: 130/-
 
@@ -105,6 +107,7 @@ The bearer gains Ward Save (4+), Immune to Psychology, Magic Resistanc
 
 #### Mounts:
 May only take the following mounts: 
+
     * ​Fire Phoenix: 160/190 pts
     * Frost Phoenix*: 200/-
     * High Prince only
@@ -127,15 +130,17 @@ If your general is from Fuga, any unit with the "Citizen Militia" special rule g
 ### High Prince/Commander (20 pts)
 The model gains Multiple Shots (3). The model’s unit gains Quick to Fire.
 #### Mounts:
-* May take a mount (one choice only):
+May take a mount (one choice only):
+
         * Elven Horse: 20 pts
         * Reaver Chariot: 25 pts
         * Sky Sloop: 100 pts
 
 ####Additional Options:
-* May take (on foot only, one choice only):
+May take (on foot only, one choice only):
+
         * Scratching Arrows: free
-        - ​Scout, Bitter Arrows: 20 pts
+        * ​Scout, Bitter Arrows: 20 pts
         * Moonlight Arrows: 5 pts
     
 ### Archmage/Mage (40/30 pts)
@@ -143,11 +148,13 @@ The model generates its spells from the paths of Death, Nature, Shadows or White
 If the model is on foot it gains etheral. The model cannot make attacks, including special attacks.
 The model generates its spells from the paths of Shadows, Heavens, Light or White Magic.
 #### Mounts:
+
     * Elven Horse: free
     * Reaver Chariot: 10 pts
 
 ####Additional Options:
-* May take (on foot only):
+May take (on foot only):
+
         - ​Scout: 20 pts
 
 
@@ -167,6 +174,7 @@ Prince with this Honour knows all eight signature spells instead.
 The number of Spells a High Prince/Commander of Medeis generates cannot be increased by any means.
 
 #### Mounts:
+
     * Giant Eagle: 70 pts
 
 ### Archmage/Mage (40/30 pts)
@@ -181,6 +189,7 @@ All spells with Duration: Lasts One Turn or Remains In Play affecting the target
 an end.
 
 #### Mounts:
+
     * Giant Eagle: 45/35 pts
 
 
@@ -198,6 +207,7 @@ The model gains Valiant and Lion’s Fur. When fighting with a Great Weapon the 
 Monstrous Cavalry, Monsters, Ridden Monsters).
 The model’s unit is immune to the effects of Terror and Fear.
 #### Mounts:
+
     * Wild Lion: 35 pts
     * Lion Chariot 35/60 pts
 
@@ -205,6 +215,7 @@ The model’s unit is immune to the effects of Terror and Fear.
 The model gains Valiant and Lion’s Fur. The model’s unit is immune to the effects of Terror and Fear.
 The model ​generates spells from the Path of White Magic, of Wilderness or of Nature. 
 #### Mounts:
+
     * Wild Lion: 35 pts
     * Lion Chariot 35/60 pts
 
