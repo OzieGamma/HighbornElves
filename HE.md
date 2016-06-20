@@ -21,11 +21,11 @@ with Fear.
 
 ## Beasts of Legend
 Highborn Elves armies may include a maximum of any two of the following: 
-- Young Dragons 
-- Dragons
-- Ancient Dragons
-- Fire Phoenixes
-- Frost Phoenixes. 
+* Young Dragons 
+* Dragons
+* Ancient Dragons
+* Fire Phoenixes
+* Frost Phoenixes. 
 
 This includes models taken as mounts. 
 This limit is increased to 4 for Grand Armies and reduced to 1 for Warbands.  
@@ -68,10 +68,10 @@ The model gains devastating charge. The model gains Dragonforged Armour.
 
 #### Mounts:
 The model **must** take one of the following mounts:
-    - Elven Horse: free
-    - Young Dragon: 200 pts
-    - Dragon*: 270/- pts
-    - Ancient Dragon*: 395/- pts
+    * Elven Horse: free
+    * Young Dragon: 200 pts
+    * Dragon*: 270/* pts
+    * Ancient Dragon*: 395/* pts
 
 \* High Prince only
 
@@ -85,8 +85,8 @@ The model ignores the Missile and Damage keywords if targeting spells�
 
 #### Mounts:
 The model **must** take one of the following mounts:
-    - Young Dragon: free
-    - Dragon*: 130/-
+    * Young Dragon: free
+    * Dragon*: 130/-
 
 \* Archmage only
 
@@ -104,8 +104,8 @@ The bearer gains Ward Save (4+), Immune to Psychology, Magic Resistanc
 
 #### Mounts:
 May only take the following mounts: 
-    - ​Fire Phoenix: 160/190 pts
-    - Frost Phoenix*: 200/-
+    * ​Fire Phoenix: 160/190 pts
+    * Frost Phoenix*: 200/-
     * High Prince only
 
 ### Archmage/Mage (85/70 pts)
@@ -126,27 +126,27 @@ If your general is from Fuga, any unit with the "Citizen Militia" special rule g
 ### High Prince/Commander (20 pts)
 The model gains Multiple Shots (3). The model’s unit gains Quick to Fire.
 #### Mounts:
-- May take a mount (one choice only):
-        - Elven Horse: 20 pts
-        - Reaver Chariot: 25 pts
-        - Sky Sloop: 100 pts
+* May take a mount (one choice only):
+        * Elven Horse: 20 pts
+        * Reaver Chariot: 25 pts
+        * Sky Sloop: 100 pts
 
 ####Additional Options:
-- May take (on foot only, one choice only):
-        - Scratching Arrows: free
+* May take (on foot only, one choice only):
+        * Scratching Arrows: free
         - ​Scout, Bitter Arrows: 20 pts
-        - Moonlight Arrows: 5 pts
+        * Moonlight Arrows: 5 pts
     
 ### Archmage/Mage (40/30 pts)
 The model generates its spells from the paths of Death, Nature, Shadows or White Magic. 
 If the model is on foot it gains etheral. The model cannot make attacks, including special attacks.
 The model generates its spells from the paths of Shadows, Heavens, Light or White Magic.
 #### Mounts:
-    - Elven Horse: free
-    - Reaver Chariot: 10 pts
+    * Elven Horse: free
+    * Reaver Chariot: 10 pts
 
 ####Additional Options:
-- May take (on foot only):
+* May take (on foot only):
         - ​Scout: 20 pts
 
 
@@ -166,7 +166,7 @@ Prince with this Honour knows all eight signature spells instead.
 The number of Spells a High Prince/Commander of Medeis generates cannot be increased by any means.
 
 #### Mounts:
-    - Giant Eagle: 70 pts
+    * Giant Eagle: 70 pts
 
 ### Archmage/Mage (40/30 pts)
 The model ​generates spells from the Path of White Magic or any of the Battle Magic Paths. 
@@ -180,7 +180,7 @@ All spells with Duration: Lasts One Turn or Remains In Play affecting the target
 an end.
 
 #### Mounts:
-    - Giant Eagle: 45/35 pts
+    * Giant Eagle: 45/35 pts
 
 
 ---------------------------------------
@@ -197,15 +197,15 @@ The model gains Valiant and Lion’s Fur. When fighting with a Great Weapon the 
 Monstrous Cavalry, Monsters, Ridden Monsters).
 The model’s unit is immune to the effects of Terror and Fear.
 #### Mounts:
-    - Wild Lion: 35 pts
-    - Lion Chariot 35/60 pts
+    * Wild Lion: 35 pts
+    * Lion Chariot 35/60 pts
 
 ### Archmage/Mage (60/45 pts)
 The model gains Valiant and Lion’s Fur. The model’s unit is immune to the effects of Terror and Fear.
 The model ​generates spells from the Path of White Magic, of Wilderness or of Nature. 
 #### Mounts:
-    - Wild Lion: 35 pts
-    - Lion Chariot 35/60 pts
+    * Wild Lion: 35 pts
+    * Lion Chariot 35/60 pts
 
 
 
@@ -282,19 +282,19 @@ Lords
 **Elven Special Rules**: Martial Discipline, Lightning Reflexes
 
 **Options**:
-- May take Magical Items: up to 100 pts
-- **Has to come from a Realm**
-- May take any of the following:
-    - Shield: 5 pts
-    - Heavy Armour: 8 pts
-- May take a Longbow: 3 pts
-- May take a weapon (one choice only):
-    - Paired Weapons: 5 pts
-    - Spear: 5 pts
-    - Light Lance: 5 pts
-    - Great Weapon: 10 pts
-    - Halberd: 10 pts
-    - Lance: 15 pts
+* May take Magical Items: up to 100 pts
+* **Has to come from a Realm**
+* May take any of the following:
+    * Shield: 5 pts
+    * Heavy Armour: 8 pts
+* May take a Longbow: 3 pts
+* May take a weapon (one choice only):
+    * Paired Weapons: 5 pts
+    * Spear: 5 pts
+    * Light Lance: 5 pts
+    * Great Weapon: 10 pts
+    * Halberd: 10 pts
+    * Lance: 15 pts
 
 
 ## Archmage 185 pts (single model)
@@ -310,9 +310,9 @@ Lords
 **Magic**: Level 3 Wizard Master. ​Generates spells from the Path of White Magic or any of the Battle Magic Paths. 
 
 **Options**:
-- May become a Level 4 Wizard Master: 30 pts
-- May take Magical Items: up to 100 pts
-- **Has to come from a Realm**
+* May become a Level 4 Wizard Master: 30 pts
+* May take Magical Items: up to 100 pts
+* **Has to come from a Realm**
 
 Heroes
 ======
@@ -327,20 +327,20 @@ Heroes
 **Elven Special Rules**: Martial Discipline, Lightning Reflexes
 
 **Options**:
-- May be the Battle Standard Bearer: 25 pts
-- May take Magical Items: up to 50 pts
-- **Has to come from a Realm**
-- May take any of the following:
-    - Shield: 2 pts
-    - Heavy Armour: 5 pts
-- May take a Longbow: 2 pts
-- May take a weapon (one choice only):
-    - Paired Weapons: 5 pts
-    - Spear: 5 pts
-    - Light Lance: 5 pts
-    - Great Weapon: 8 pts
-    - Halberd: 8 pts
-    - Lance: 10 pts
+* May be the Battle Standard Bearer: 25 pts
+* May take Magical Items: up to 50 pts
+* **Has to come from a Realm**
+* May take any of the following:
+    * Shield: 2 pts
+    * Heavy Armour: 5 pts
+* May take a Longbow: 2 pts
+* May take a weapon (one choice only):
+    * Paired Weapons: 5 pts
+    * Spear: 5 pts
+    * Light Lance: 5 pts
+    * Great Weapon: 8 pts
+    * Halberd: 8 pts
+    * Lance: 10 pts
 
 ## Mage 70 pts (single model)
 | M | WS | BS | S | T | W | I | A | Ld |
@@ -355,9 +355,9 @@ Heroes
 **Magic**: Level 1 Wizard Apprentice. ​Generates spells from the Path of White Magic or any of the Battle Magic Paths. 
 
 **Options**:
-- May become a Level 2 Wizard Apprentice: 25 pts
-- May take Magical Items: up to 50 pts
-- **Has to come from a Realm**
+* May become a Level 2 Wizard Apprentice: 25 pts
+* May take Magical Items: up to 50 pts
+* **Has to come from a Realm**
 
 Character Mounts
 ================
@@ -365,47 +365,47 @@ Character Mounts
 ## Elven Horse
 | M | WS | BS | S | T | W | I | A | Ld |
 |---|----|----|---|---|---|---|---|----|
-| 9 |  3 |  - | 3 | 3 | 1 | 4 | 1 |  3 |
+| 9 |  3 |  * | 3 | 3 | 1 | 4 | 1 |  3 |
 *Type*: War Beast, 25x50mm base
 Mount’s Protection (6+)
 
 **Options**: 
-- May take Mount’s Protection (5+): 10pts
+* May take Mount’s Protection (5+): 10pts
 
 ## Wild Lion
 | M | WS | BS | S | T | W | I | A | Ld |
 |---|----|----|---|---|---|---|---|----|
-| 8 |  5 |  - | 5 | 4 | 1 | 4 | 2 |  8 |
+| 8 |  5 |  * | 5 | 4 | 1 | 4 | 2 |  8 |
 *Type*: War Beast, 25x50mm base
 Mount’s Protection (6+)
 
 ## Giant Eagle
 | M | WS | BS | S | T | W | I | A | Ld |
 |---|----|----|---|---|---|---|---|----|
-| 2 |  5 |  - | 4 | 4 | 3 | 4 | 2 |  8 |
+| 2 |  5 |  * | 4 | 4 | 3 | 4 | 2 |  8 |
 *Type*: Monstrous Beast, 50x50mm base
 Mount’s Protection (6+), Fly (9)
 
 **Options**:
-- Armour Piercing (1): 5pts
-- Lightning Reflexes: 5pts
+* Armour Piercing (1): 5pts
+* Lightning Reflexes: 5pts
 
 ## Griffon
 | M | WS | BS | S | T | W | I | A | Ld |
 |---|----|----|---|---|---|---|---|----|
-| 6 |  5 |  - | 5 | 5 | 4 | 5 | 4 |  5 |
+| 6 |  5 |  * | 5 | 5 | 4 | 5 | 4 |  5 |
 *Type*: Monstrous Beast, 50x50mm base
 Fly (8), Large Target, Fear
 
 **Options**:
-- Armour Piercing (1): 5pts
-- Lightning Reflexes: 10pts
-- Thunderous Charge and Devastating Charge: 15pts
+* Armour Piercing (1): 5pts
+* Lightning Reflexes: 10pts
+* Thunderous Charge and Devastating Charge: 15pts
 
 ## Fire Phoenix (Beast of Legend)
 | M | WS | BS | S | T | W | I | A | Ld |
 |---|----|----|---|---|---|---|---|----|
-| 2 |  5 |  - | 5 | 5 | 5 | 4 | 3 |  8 |
+| 2 |  5 |  * | 5 | 5 | 5 | 4 | 3 |  8 |
 *Type*: Monster, 50x100mm base
 Fly (9), Ward Save (4+), Magical Attacks, Fireborn,
 Flaming Attacks, Flame Swoop, Rebirth (see Fire Phoenix rare unit)
@@ -413,7 +413,7 @@ Flaming Attacks, Flame Swoop, Rebirth (see Fire Phoenix rare unit)
 ## Frost Phoenix (Beast of Legend)
 | M | WS | BS | S | T | W | I | A | Ld |
 |---|----|----|---|---|---|---|---|----|
-| 2 |  5 |  - | 5 | 5 | 5 | 3 | 5 |  8 |
+| 2 |  5 |  * | 5 | 5 | 5 | 3 | 5 |  8 |
 *Type*: Monster, 50x100mm base
 Innate Defence (5+), Fly (8), Ward Save (4+), Magical Attacks, 
 Chill Aura (see Frost Phoenix rare unit)
@@ -443,23 +443,23 @@ Innate Defence (3+), Fly (7), Breath Weapon (Strength 5, Flaming Attacks)
 ## Reaver Chariot
 |                | M | WS | BS | S | T | W | I | A | Ld |
 |----------------|---|----|----|---|---|---|---|---|----|
-|         Chariot| - |  - |  - | 5 | 4 | 4 | - | - |  - |
-|         Crew(2)| - |  4 |  4 | 3 | - | - | 5 | 1 |  8 |
-|Elven Horses (2)| 9 |  3 |  - | 3 | - | - | 4 | 1 |  3 |
+|         Chariot| * |  * |  * | 5 | 4 | 4 | * | * |  * |
+|         Crew(2)| * |  4 |  4 | 3 | * | * | 5 | 1 |  8 |
+|Elven Horses (2)| 9 |  3 |  * | 3 | * | * | 4 | 1 |  3 |
 *Type*: Chariot, 50x100mm base
 Light Lance, Longbow (Crew), Scratching Arrows(Crew)
 Mount’s Protection (6+), Light Armour
 Martial Discipline, Lightning Reflexes (Crew), Light Troops
 
 **Options**:
-- May take Vanguard: 10pts
+* May take Vanguard: 10pts
 
 ## Lion Chariot
 |                | M | WS | BS | S | T | W | I | A | Ld |
 |----------------|---|----|----|---|---|---|---|---|----|
-|         Chariot| - |  - |  - | 5 | 4 | 4 | - | - |  - |
-|         Crew(2)| - |  5 |  4 | 4 | - | - | 5 | 1 |  8 |
-|Elven Horses (2)| 8 |  5 |  - | 5 | - | - | 4 | 2 |  8 |
+|         Chariot| * |  * |  * | 5 | 4 | 4 | * | * |  * |
+|         Crew(2)| * |  5 |  4 | 4 | * | * | 5 | 1 |  8 |
+|Elven Horses (2)| 8 |  5 |  * | 5 | * | * | 4 | 2 |  8 |
 *Type*: Chariot, 50x100mm base
 Great Weapon (Crew)
 Mount’s Protection (5+), Heavy Armour
@@ -471,9 +471,9 @@ Ridden Monster) (Crew)
 ## Sky Sloop
 |        | M | WS | BS | S | T | W | I | A | Ld |
 |--------|---|----|----|---|---|---|---|---|----|
-| Chariot| - |  - |  - | 5 | 4 | 4 | - | - |  - |
-| Crew(2)| - |  4 |  4 | 3 | - | - | 5 | 1 |  8 |
-|Hawk (1)| 2 |  4 |  - | 4 | - | - | 4 | 2 |  8 |
+| Chariot| * |  * |  * | 5 | 4 | 4 | * | * |  * |
+| Crew(2)| * |  4 |  4 | 3 | * | * | 5 | 1 |  8 |
+|Hawk (1)| 2 |  4 |  * | 4 | * | * | 4 | 2 |  8 |
 *Type*: Chariot, 50x100mm base
 Volley Gun Artillery Weapon with Range 24", 
 Strength 5, Armour Piercing (1), Multiple Shots (4), Quick to Fire
@@ -483,10 +483,10 @@ Martial Discipline, Lightning Reflexes (Crew)
 Fly (9), Hard Target
 
 **Options**:
-- May take one of the following:
-    - Aldan Warhorn (30 pts): Enemy units within 12” of one or more models with
+* May take one of the following:
+    * Aldan Warhorn (30 pts): Enemy units within 12” of one or more models with
         this rule have -1 Weapon Skill.
-    - Storm Pennant (30 pts): The model’s Close Combat Attacks and Impact Hits 
+    * Storm Pennant (30 pts): The model’s Close Combat Attacks and Impact Hits 
         gain Lightning Attacks. The Storm Pennant can cast Thunderbolt from 
         the Path of Heavens as a Bound Spell (Power Level 4).
 
@@ -511,12 +511,12 @@ Core
 **Special Rules**: Fight in Extra Rank 
 
 **Options**:
-- May take Heavy Armour: 2 pts/model
-- May upgrade one model to each of the following:
-    - Champion: 10 pts
-    - Musician: 10 pts
-    - Standard Bearer: 10 pts
-        - may become the Veteran Standard Bearer
+* May take Heavy Armour: 2 pts/model
+* May upgrade one model to each of the following:
+    * Champion: 10 pts
+    * Musician: 10 pts
+    * Standard Bearer: 10 pts
+        * may become the Veteran Standard Bearer
 
 ## Citizen Archers 90 pts 
 **10** models, may add up to **20** models 9 pts/model
@@ -535,11 +535,11 @@ Core
 **Elven Special Rules**: Martial Discipline, Lightning Reflexes
 
 **Options**:
-- May upgrade one model to each of the following:
-    - Champion: 10 pts
-    - Musician: 10 pts
-    - Standard Bearer: 10 pts
-        - may become the Veteran Standard Bearer
+* May upgrade one model to each of the following:
+    * Champion: 10 pts
+    * Musician: 10 pts
+    * Standard Bearer: 10 pts
+        * may become the Veteran Standard Bearer
 
 ## Citizen Veterans 120 pts 
 **10** models, may add up to **30** models 12 pts/model
@@ -565,12 +565,12 @@ This rule cannot be used together with Quick to Fire 
 (if a model has both, choose which to use before shooting). 
 
 **Options**:
-- May Ambush (max 20 models, One of a Kind): 3 pts/model
-- May upgrade one model to each of the following:
-    - Champion: 10 pts
-    - Musician: 10 pts
-    - Standard Bearer: 10 pts
-        - may become the Veteran Standard Bearer
+* May Ambush (max 20 models, One of a Kind): 3 pts/model
+* May upgrade one model to each of the following:
+    * Champion: 10 pts
+    * Musician: 10 pts
+    * Standard Bearer: 10 pts
+        * may become the Veteran Standard Bearer
 
 ## Lancers 95 pts 
 **5** models, may add up to **10** models 18 pts/model
@@ -578,7 +578,7 @@ This rule cannot be used together with Quick to Fire 
 |           | M | WS | BS | S | T | W | I | A | Ld |
 |-----------|---|----|----|---|---|---|---|---|----|
 |      Rider| 5 |  4 |  4 | 3 | 3 | 1 | 5 | 1 |  8 |
-|Elven Horse| 9 |  3 |  - | 3 | 3 | 1 | 4 | 1 |  3 |
+|Elven Horse| 9 |  3 |  * | 3 | 3 | 1 | 4 | 1 |  3 |
 *Type*: Cavalry 25x50mm base
 
 **Weapons**: Lance
@@ -590,12 +590,12 @@ This rule cannot be used together with Quick to Fire 
 **Elven Special Rules**: Martial Discipline, Lightning Reflexes(Rider only)
 
 **Options**:
-- May take Mount’s Protection (5+): 4 pts/model
-- May upgrade one model to each of the following:
-    - Champion: 10 pts
-    - Musician: 10 pts
-    - Standard Bearer: 10 pts
-        - may become the Veteran Standard Bearer
+* May take Mount’s Protection (5+): 4 pts/model
+* May upgrade one model to each of the following:
+    * Champion: 10 pts
+    * Musician: 10 pts
+    * Standard Bearer: 10 pts
+        * may become the Veteran Standard Bearer
 
 ## Reavers 85 pts 
 **5** models, may add up to **5** models 14 pts/model
@@ -603,7 +603,7 @@ This rule cannot be used together with Quick to Fire 
 |           | M | WS | BS | S | T | W | I | A | Ld |
 |-----------|---|----|----|---|---|---|---|---|----|
 |      Rider| 5 |  4 |  4 | 3 | 3 | 1 | 5 | 1 |  8 |
-|Elven Horse| 9 |  3 |  - | 3 | 3 | 1 | 4 | 1 |  3 |
+|Elven Horse| 9 |  3 |  * | 3 | 3 | 1 | 4 | 1 |  3 |
 *Type*: Cavalry 25x50mm base
 
 **Weapons**: Light Lance
@@ -617,12 +617,12 @@ This rule cannot be used together with Quick to Fire 
 **Special Rules**: Fast Cavalry
 
 **Options**:
-- May take Mount’s Protection (5+): 3 pts/model
-- May take a Bow: 1 pts/model
-- May upgrade one model to each of the following:
-    - Champion: 10 pts
-    - Musician: 10 pts
-    - Standard Bearer: 10 pts
+* May take Mount’s Protection (5+): 3 pts/model
+* May take a Bow: 1 pts/model
+* May upgrade one model to each of the following:
+    * Champion: 10 pts
+    * Musician: 10 pts
+    * Standard Bearer: 10 pts
 
 Special
 =======
@@ -643,17 +643,17 @@ Special
 **Elven Special Rules**: Martial Discipline, Lightning Reflexes
 
 **Special Rules**:
-- *Sword Sworn*: A model with this special rule that is both on foot and fighting
+* *Sword Sworn*: A model with this special rule that is both on foot and fighting
 with a Great Weapon ignores its opponent’s Parry and Distracting rules.
-- Wizard Conclave(Guiding Hand(path of White Magic))
+* Wizard Conclave(Guiding Hand(path of White Magic))
 
 **Options**:
-- May upgrade one model to each of the following:
-    - Champion: 50 pts
-    - may take a single Magical Weapons: up to 25 pts
-    - Musician: 10 pts
-    - Standard Bearer: 10 pts
-        - may take a magical standard: up to 50 pts
+* May upgrade one model to each of the following:
+    * Champion: 50 pts
+    * may take a single Magical Weapons: up to 25 pts
+    * Musician: 10 pts
+    * Standard Bearer: 10 pts
+        * may take a magical standard: up to 50 pts
 
 ## Lion Guard 120 pts 
 **10** models, may add up to **20** models 14 pts/model
@@ -672,18 +672,18 @@ with a Great Weapon ignores its opponent’s Parry and Distracting rules.
 **Elven Special Rules**: Martial Discipline, Lightning Reflexes
 
 **Special Rules**:
-- Multiple Wounds (2, Monstrous Cavalry, Monstrous
+* Multiple Wounds (2, Monstrous Cavalry, Monstrous
 Beasts, Monster and Ridden Monster), Strider
 (Forest), Valiant
 
 **Options**:
-- May Skirmish (max 15 models, One of a Kind): 3 pts/model
-- May upgrade one model to each of the following:
-    - Champion: 10 pts
-    - may take a single Magical Weapons: up to 25 pts
-    - Musician: 10 pts
-    - Standard Bearer: 10 pts
-        - may take a magical standard: up to 50 pts
+* May Skirmish (max 15 models, One of a Kind): 3 pts/model
+* May upgrade one model to each of the following:
+    * Champion: 10 pts
+    * may take a single Magical Weapons: up to 25 pts
+    * Musician: 10 pts
+    * Standard Bearer: 10 pts
+        * may take a magical standard: up to 50 pts
 
 ## Lion Knights 160 pts 
 **5** models, may add up to **5** models 32 pts/model
@@ -691,7 +691,7 @@ Beasts, Monster and Ridden Monster), Strider
 |           | M | WS | BS | S | T | W | I | A | Ld |
 |-----------|---|----|----|---|---|---|---|---|----|
 |      Rider| 5 |  5 |  4 | 4 | 3 | 1 | 5 | 1 |  9 |
-|  Wild Lion| 8 |  5 |  - | 5 | 4 | 1 | 4 | 2 |  8 |
+|  Wild Lion| 8 |  5 |  * | 5 | 4 | 1 | 4 | 2 |  8 |
 *Type*: Cavalry 25x50mm base
 
 **Weapons**: Great Weapon
@@ -703,23 +703,23 @@ Beasts, Monster and Ridden Monster), Strider
 **Elven Special Rules**: Martial Discipline, Lightning Reflexes(Rider only)
 
 **Special Rules**:
-- Multiple Wounds (2, Monstrous Cavalry, Monstrous
+* Multiple Wounds (2, Monstrous Cavalry, Monstrous
 Beasts, Monster and Ridden Monster) (Crew only), Strider (Forest), Valiant
 
 **Options**:
-- May upgrade one model to each of the following:
-    - Champion: 10 pts
-    - may take a single Magical Weapons: up to 25 pts
-    - Musician: 10 pts
-    - Standard Bearer: 10 pts
-        - may take a magical standard: up to 50 pts
+* May upgrade one model to each of the following:
+    * Champion: 10 pts
+    * may take a single Magical Weapons: up to 25 pts
+    * Musician: 10 pts
+    * Standard Bearer: 10 pts
+        * may take a magical standard: up to 50 pts
 
 ## Wild Lions 100 pts 
 **5** models, may add up to **10** models 20 pts/model
 
 | M | WS | BS | S | T | W | I | A | Ld |
 |---|----|----|---|---|---|---|---|----|
-| 8 |  5 |  - | 5 | 4 | 1 | 4 | 2 |  8 |
+| 8 |  5 |  * | 5 | 4 | 1 | 4 | 2 |  8 |
 *Type*: War Beast 25x50mm base
 
 **Armour**: Innate Defence (6+)
@@ -728,10 +728,10 @@ Beasts, Monster and Ridden Monster) (Crew only), Strider (Forest), Valiant
 
 
 **Special Rules**:
-- Strider (Forest), Valiant
+* Strider (Forest), Valiant
 
 **Options**:
-- May upgrade one model to Champion: 10 pts
+* May upgrade one model to Champion: 10 pts
 
 ## Flame Wardens 125 pts 
 **10** models, may add up to **15** models 16 pts/model
@@ -750,15 +750,15 @@ Beasts, Monster and Ridden Monster) (Crew only), Strider (Forest), Valiant
 **Elven Special Rules**: Martial Discipline, Lightning Reflexes
 
 **Special Rules**:
-- Fight in Extra Rank, Immune to Psychology, Ward Save (4+)
+* Fight in Extra Rank, Immune to Psychology, Ward Save (4+)
 
 **Options**:
-- May upgrade one model to each of the following:
-    - Champion: 10 pts
-    - may take a single Magical Weapons: up to 25 pts
-    - Musician: 10 pts
-    - Standard Bearer: 10 pts
-        - may take a magical standard: up to 50 pts
+* May upgrade one model to each of the following:
+    * Champion: 10 pts
+    * may take a single Magical Weapons: up to 25 pts
+    * Musician: 10 pts
+    * Standard Bearer: 10 pts
+        * may take a magical standard: up to 50 pts
 
 ## Knights of Ryma 135 pts 
 **5** models, may add up to **7** models 27 pts/model
@@ -766,7 +766,7 @@ Beasts, Monster and Ridden Monster) (Crew only), Strider (Forest), Valiant
 |           | M | WS | BS | S | T | W | I | A | Ld |
 |-----------|---|----|----|---|---|---|---|---|----|
 |      Rider| 5 |  5 |  4 | 4 | 3 | 1 | 6 | 1 |  9 |
-|Elven Horse| 9 |  3 |  - | 3 | 3 | 1 | 4 | 1 |  3 |
+|Elven Horse| 9 |  3 |  * | 3 | 3 | 1 | 4 | 1 |  3 |
 *Type*: Cavalry 25x50mm base
 
 **Weapons**: Lance
@@ -778,22 +778,22 @@ Beasts, Monster and Ridden Monster) (Crew only), Strider (Forest), Valiant
 **Elven Special Rules**: Martial Discipline, Lightning Reflexes(Rider only)
 
 **Options**:
-- May take Devastating Charge (Rider only): 5pts/model
-- May upgrade one model to each of the following:
-    - Champion: 10 pts
-    - may take a single Magical Weapons: up to 25 pts
-    - Musician: 10 pts
-    - Standard Bearer: 10 pts
-        - may take a magical standard: up to 50 pts
+* May take Devastating Charge (Rider only): 5pts/model
+* May upgrade one model to each of the following:
+    * Champion: 10 pts
+    * may take a single Magical Weapons: up to 25 pts
+    * Musician: 10 pts
+    * Standard Bearer: 10 pts
+        * may take a magical standard: up to 50 pts
 
 ## Reaver Chariot 65 pts 
 **1** model, may add up to **3** models 60 pts/model
 
 |                | M | WS | BS | S | T | W | I | A | Ld |
 |----------------|---|----|----|---|---|---|---|---|----|
-|         Chariot| - |  - |  - | 5 | 4 | 4 | - | - |  - |
-|         Crew(2)| - |  4 |  4 | 3 | - | - | 5 | 1 |  8 |
-|Elven Horses (2)| 9 |  3 |  - | 3 | - | - | 4 | 1 |  3 |
+|         Chariot| * |  * |  * | 5 | 4 | 4 | * | * |  * |
+|         Crew(2)| * |  4 |  4 | 3 | * | * | 5 | 1 |  8 |
+|Elven Horses (2)| 9 |  3 |  * | 3 | * | * | 4 | 1 |  3 |
 *Type*: Chariot 50x100mm base
 
 **Weapons**: Light Lance, Longbow (Crew only), Scratching Arrows(Crew only)
@@ -807,16 +807,16 @@ Beasts, Monster and Ridden Monster) (Crew only), Strider (Forest), Valiant
 **Special Rules**: Light Troops
 
 **Options**:
-- May Vanguard: 15pts/model
+* May Vanguard: 15pts/model
 
 ## Lion Chariot 100 pts 
 **1** model, may add up to **3** models 60 pts/model
 
 |             | M | WS | BS | S | T | W | I | A | Ld |
 |-------------|---|----|----|---|---|---|---|---|----|
-|      Chariot| - |  - |  - | 5 | 4 | 4 | - | - |  - |
-|      Crew(2)| - |  5 |  4 | 4 | - | - | 5 | 1 |  8 |
-|Wild Lion (2)| 8 |  5 |  - | 5 | - | - | 4 | 2 |  3 |
+|      Chariot| * |  * |  * | 5 | 4 | 4 | * | * |  * |
+|      Crew(2)| * |  5 |  4 | 4 | * | * | 5 | 1 |  8 |
+|Wild Lion (2)| 8 |  5 |  * | 5 | * | * | 4 | 2 |  3 |
 *Type*: Chariot 50x100mm base
 
 **Weapons**: Great Weapon
@@ -849,13 +849,13 @@ Rare
 **Elven Special Rules**: Martial Discipline, Lightning Reflexes
 
 **Options**:
-- May take a Longbow: 2 pts/model
-- May take a Spear: 1 pts/model
-- May upgrade one model to each of the following:
-    - Champion: 10 pts
-    - Musician: 10 pts
-    - Standard Bearer: 10 pts
-        - may take a magical standard: up to 50 pts
+* May take a Longbow: 2 pts/model
+* May take a Spear: 1 pts/model
+* May upgrade one model to each of the following:
+    * Champion: 10 pts
+    * Musician: 10 pts
+    * Standard Bearer: 10 pts
+        * may take a magical standard: up to 50 pts
 
 ## Grey Watchers 80 pts 
 **5** models, may add up to **5** models 16 pts/model
@@ -876,23 +876,23 @@ Rare
 **Special Rules**: Skirmishers, Scout
 
 **Options**:
-- May take a Shield: 1 pts/model
-- May take a Longbow: 2 pts/model
-- May take Paired Weapons: 1 pts/model
-- May upgrade one model to Champion: 10 pts
+* May take a Shield: 1 pts/model
+* May take a Longbow: 2 pts/model
+* May take Paired Weapons: 1 pts/model
+* May upgrade one model to Champion: 10 pts
 
 ## Sea Guard Reaper 60 pts (0-3 Choice)
 Single model
 
 |        | M | WS | BS | S | T | W | I | A | Ld |
 |--------|---|----|----|---|---|---|---|---|----|
-|  Reaper| - |  - |  - | - | 7 | 2 | - | - |  - |
-|Crew (2)| 5 |  4 |  4 | 3 | 3 | - | 5 | 1 |  8 |
+|  Reaper| * |  * |  * | * | 7 | 2 | * | * |  * |
+|Crew (2)| 5 |  4 |  4 | 3 | 3 | * | 5 | 1 |  8 |
 
 *Type*: War Machine 60mm round base
 
 **Weapons**: 
-- Elven Bolt Thrower: This is a Bolt Thrower Artillery Weapon with
+* Elven Bolt Thrower: This is a Bolt Thrower Artillery Weapon with
 Range 48", Strength 6, Multiple Wounds (D3), Armour Piercing (6)
 
 **Armour**: Light Armour
@@ -902,7 +902,7 @@ Range 48", Strength 6, Multiple Wounds (D3), Armour Piercing (6)
 **Elven Special Rules**: Martial Discipline, Lightning Reflexes
 
 **Options**:
-- May purchase Repeating Shots: 20 pts An Elven Bolt Thrower upgraded with
+* May purchase Repeating Shots: 20 pts An Elven Bolt Thrower upgraded with
 Repeating Shots may alternatively be fired as a Volley Gun
 Artillery Weapon with:
 Range 48", Strength 4, Armour Piercing (1),
@@ -913,9 +913,9 @@ Single model
 
 |        | M | WS | BS | S | T | W | I | A | Ld |
 |--------|---|----|----|---|---|---|---|---|----|
-| Chariot| - |  - |  - | 5 | 4 | 4 | - | - |  - |
-| Crew(2)| - |  4 |  4 | 3 | - | - | 5 | 1 |  8 |
-|Hawk (1)| 2 |  4 |  - | 4 | - | - | 4 | 2 |  8 |
+| Chariot| * |  * |  * | 5 | 4 | 4 | * | * |  * |
+| Crew(2)| * |  4 |  4 | 3 | * | * | 5 | 1 |  8 |
+|Hawk (1)| 2 |  4 |  * | 4 | * | * | 4 | 2 |  8 |
 *Type*: Chariot, 50x100mm base
 
 
@@ -934,10 +934,10 @@ Mount’s Protection (6+), Light Armour
 **Special Rules**: Fly (9), Hard Target
 
 **Options**:
-- May take one of the following:
-    - Aldan Warhorn (30 pts): Enemy units within 12” of one or more models with
+* May take one of the following:
+    * Aldan Warhorn (30 pts): Enemy units within 12” of one or more models with
         this rule have -1 Weapon Skill.
-    - Storm Pennant (30 pts): The model’s Close Combat Attacks and Impact Hits 
+    * Storm Pennant (30 pts): The model’s Close Combat Attacks and Impact Hits 
         gain Lightning Attacks. The Storm Pennant can cast Thunderbolt from 
         the Path of Heavens as a Bound Spell (Power Level 4).
 
@@ -947,7 +947,7 @@ Mount’s Protection (6+), Light Armour
 
 | M | WS | BS | S | T | W | I | A | Ld |
 |---|----|----|---|---|---|---|---|----|
-| 2 |  5 |  - | 4 | 4 | 3 | 4 | 2 |  8 |
+| 2 |  5 |  * | 4 | 4 | 3 | 4 | 2 |  8 |
 *Type*: Monstrous Beast, 50x50mm base
 
 **Realm**: Medeis
@@ -955,23 +955,23 @@ Mount’s Protection (6+), Light Armour
 **Special Rules**: Fly (9)
 
 **Options**:
-- Armour Piercing (1): 5pts/model
-- Lightning Reflexes: 5pts/model
+* Armour Piercing (1): 5pts/model
+* Lightning Reflexes: 5pts/model
 
 ## Fire Phoenix (Beast of Legend)
 Single model
 
 | M | WS | BS | S | T | W | I | A | Ld |
 |---|----|----|---|---|---|---|---|----|
-| 2 |  5 |  - | 5 | 5 | 5 | 4 | 3 |  8 |
+| 2 |  5 |  * | 5 | 5 | 5 | 4 | 3 |  8 |
 *Type*: Monster, 50x100mm base
 
 **Realm**: Ignis
 
 **Special Rules**: Fly (9), Ward Save (5+), Magical Attacks, Fireborn, Flaming Attacks
-- **Flame Swoop**: Sweeping Attack: the enemy unit suffers D6 hits and an additional D3 hits for each rank after the first
+* **Flame Swoop**: Sweeping Attack: the enemy unit suffers D6 hits and an additional D3 hits for each rank after the first
 rank. These hits are Strength 4 with Flaming Attacks.
-- **Rebirth**: The first time a Fire Phoenix loses its last wound, the owner must roll a D6. On a roll of 5+ (or 3+ if a Ridden
+* **Rebirth**: The first time a Fire Phoenix loses its last wound, the owner must roll a D6. On a roll of 5+ (or 3+ if a Ridden
 Monster) place a marker centered on the model’s final position. If the roll fails then the model counts as a casualty. At
 the start of the remaining moves subphase
 in the next Player Turn, the owner places the Fire Phoenix model
@@ -986,7 +986,7 @@ Single model
 
 | M | WS | BS | S | T | W | I | A | Ld |
 |---|----|----|---|---|---|---|---|----|
-| 2 |  5 |  - | 5 | 5 | 5 | 3 | 5 |  8 |
+| 2 |  5 |  * | 5 | 5 | 5 | 3 | 5 |  8 |
 *Type*: Monster, 50x100mm base
 
 **Armour**: Innate Defence (5+)
@@ -994,7 +994,7 @@ Single model
 **Realm**: Ignis
 
 **Special Rules**: Fly (8), Magical Attacks, Ward Save (5+)
-- **Chill Aura**: Enemy units in base contact with one or more models with this special rule has 3
+* **Chill Aura**: Enemy units in base contact with one or more models with this special rule has 3
 Initiative and 1 Strength, both to a minimum of 1.
 
 ## Drake Riders 150 pts
@@ -1003,7 +1003,7 @@ Initiative and 1 Strength, both to a minimum of 1.
 |     | M | WS | BS | S | T | W | I | A | Ld |
 |-----|---|----|----|---|---|---|---|---|----|
 |Rider| 5 |  6 |  4 | 4 | 3 | 1 | 6 | 2 |  9 |
-|Drake| 7 |  4 |  - | 5 | 4 | 3 | 3 | 4 |  8 |
+|Drake| 7 |  4 |  * | 5 | 4 | 3 | 3 | 4 |  8 |
 *Type*: Mounstrous Cavalry 50x100mm base
 
 **Weapons**: Lance
@@ -1017,10 +1017,10 @@ Initiative and 1 Strength, both to a minimum of 1.
 **Special Rules**: Crush Attack (Drake)
 
 **Options**:
-- May take Devastating Charge (Rider only): 10pts/model
-- May upgrade one model to each of the following:
-    - Champion: 10 pts
-    - may take a single Magical Weapons: up to 25 pts
-    - Musician: 10 pts
-    - Standard Bearer: 10 pts
-        - may take a magical standard: up to 50 pts
+* May take Devastating Charge (Rider only): 10pts/model
+* May upgrade one model to each of the following:
+    * Champion: 10 pts
+    * may take a single Magical Weapons: up to 25 pts
+    * Musician: 10 pts
+    * Standard Bearer: 10 pts
+        * may take a magical standard: up to 50 pts
