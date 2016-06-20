@@ -70,10 +70,10 @@ The model gains devastating charge. The model gains Dragonforged Armour.
 #### Mounts:
 The model **must** take one of the following mounts:
 
-    * Elven Horse: free
-    * Young Dragon: 200 pts
-    * Dragon*: 270/* pts
-    * Ancient Dragon*: 395/* pts
+* Elven Horse: free
+* Young Dragon: 200 pts
+* Dragon*: 270/* pts
+* Ancient Dragon*: 395/* pts
 
 \* High Prince only
 
@@ -88,8 +88,8 @@ The model ignores the Missile and Damage keywords if targeting spells�
 #### Mounts:
 The model **must** take one of the following mounts:
 
-    * Young Dragon: free
-    * Dragon*: 130/-
+* Young Dragon: free
+* Dragon*: 130/-
 
 \* Archmage only
 
@@ -108,9 +108,9 @@ The bearer gains Ward Save (4+), Immune to Psychology, Magic Resistanc
 #### Mounts:
 May only take the following mounts: 
 
-    * ​Fire Phoenix: 160/190 pts
-    * Frost Phoenix*: 200/-
-    * High Prince only
+* ​Fire Phoenix: 160/190 pts
+* Frost Phoenix*: 200/-
+* High Prince only
 
 ### Archmage/Mage (85/70 pts)
 The bearer gains Ward Save (4+), Immune to Psychology, Magic Resistance (2) and Divine Attacks. The model’s unit gains Magical Attacks. 
@@ -132,16 +132,16 @@ The model gains Multiple Shots (3). The model’s unit gains Quick to
 #### Mounts:
 May take a mount (one choice only):
 
-        * Elven Horse: 20 pts
-        * Reaver Chariot: 25 pts
-        * Sky Sloop: 100 pts
+* Elven Horse: 20 pts
+* Reaver Chariot: 25 pts
+* Sky Sloop: 100 pts
 
 ####Additional Options:
 May take (on foot only, one choice only):
 
-        * Scratching Arrows: free
-        * ​Scout, Bitter Arrows: 20 pts
-        * Moonlight Arrows: 5 pts
+* Scratching Arrows: free
+* ​Scout, Bitter Arrows: 20 pts
+* Moonlight Arrows: 5 pts
     
 ### Archmage/Mage (40/30 pts)
 The model generates its spells from the paths of Death, Nature, Shadows or White Magic. 
@@ -149,13 +149,13 @@ If the model is on foot it gains etheral. The model cannot make attacks, inc
 The model generates its spells from the paths of Shadows, Heavens, Light or White Magic.
 #### Mounts:
 
-    * Elven Horse: free
-    * Reaver Chariot: 10 pts
+* Elven Horse: free
+* Reaver Chariot: 10 pts
 
 ####Additional Options:
 May take (on foot only):
 
-        - ​Scout: 20 pts
+* ​Scout: 20 pts
 
 
 ---------------------------------------
