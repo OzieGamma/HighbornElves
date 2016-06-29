@@ -144,7 +144,6 @@ May take (on foot only, one choice only):
 * Moonlight Arrows: 5 pts
     
 ### Archmage/Mage (40/30 pts)
-The model generates its spells from the paths of Death, Nature, Shadows or White Magic. 
 If the model is on foot it gains etheral. The model cannot make attacks, including special attacks.
 The model generates its spells from the paths of Shadows, Heavens, Light or White Magic.
 #### Mounts:
